@@ -1,0 +1,27 @@
+.BB {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+
+.wrapper {
+    font-size: 100px !important;
+    background-color: brown;
+    display: grid;
+font-size: 50px;
+    grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+  border-color: black; 
+  border-style:groove;
+  text-align: center;
+  grid-template-columns: 1;
+  grid-template-rows: 3;
+       
+}
+
+.gridi {
+font-size: 50px !important;
+
+    border-style: groove;
+    border-color: aqua;
+}
